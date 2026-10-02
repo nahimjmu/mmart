@@ -1,0 +1,1 @@
+import{s as e}from"./link-ByeF3nDZ.js";import{t}from"./ProductForm-DM8br0qB.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

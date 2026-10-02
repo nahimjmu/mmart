@@ -1,0 +1,1 @@
+import{s as e}from"./link-ByeF3nDZ.js";import{t}from"./ProductForm-DM8br0qB.js";import{t as n}from"./index-BL1a-EV9.js";var r=e();function i(){let e=n.useLoaderData();return(0,r.jsx)(t,{product:e},e.id)}export{i as component};

@@ -1,0 +1,1 @@
+var e=!1,t=typeof window<`u`&&/[#&]type=recovery(&|$)/.test(window.location.hash),n=`product-images`;export{t as n,e as r,n as t};

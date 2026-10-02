@@ -1,0 +1,1 @@
+import{s as e}from"./link-ByeF3nDZ.js";import{n as t,t as n}from"./use-hydrated-CudZ9_Av.js";import{r}from"./index-BL1a-EV9.js";var i=e();function a(){let e=r.useLoaderData(),a=n(r.useSearch()),o=r.useNavigate();return(0,i.jsx)(t,{products:e,search:a,onChange:e=>void o({search:t=>({...t,...e}),replace:!0,resetScroll:!1})})}export{a as component};
